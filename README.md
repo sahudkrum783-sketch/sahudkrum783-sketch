@@ -5,7 +5,7 @@
 - 🛠️ Skilled in **Power BI, SQL, Python, Excel, Google Sheets** for data analysis and visualization.  
 - 📈 Interested in **business intelligence, forecasting, and analytics-driven decision-making**.  
 - 💡 Open to collaborating on **data projects, dashboards, and research-based analytics**.  
-- 🎯 Goal: To grow into a **professional analyst & trader** by combining technical skills with problem-solving.  
+- 🎯 Goal: To grow into a **professional analyst** by combining technical skills with problem-solving.  
 
 ---
 
